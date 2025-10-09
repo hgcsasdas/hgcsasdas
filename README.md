@@ -31,10 +31,10 @@
 
 🔗 Let's connect and leverage technology to our advantage!
 
-Feel free to check out my portfolio at [csnportfolio.netlify.app](https://csnportfolio.netlify.app) and let's get in touch via email for any collaborations or opportunities.
+Feel free to check out my portfolio at [hgccarlos](https://hgccarlos.es) and let's get in touch via email for any collaborations or opportunities.
 
 ### My Portfolio:
-- 👨‍💻 You can find all of my projects and learn more about me at [https://csnportfolio.netlify.app](https://csnportfolio.netlify.app)
+- 👨‍💻 You can find all of my projects and learn more about me at [hgccarlos](https://hgccarlos.es)
 
 <!-- You can add sections like 'Featured Projects', 'Blog Posts', 'GitHub Stats' etc. to enrich your README profile. -->
 
