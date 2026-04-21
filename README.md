@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Carlos Sánchez!
+### Hi there 👋, I'm Carlos!
 
 <h3 align="center">A passionate junior full-stack developer with a knack for continuous learning and innovation</h3>
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-sánchez-núñez/" target="blankz"><img align="center" src="icons/linkedin.svg" alt="Carlos Sánchez LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlossn/" target="blankz"><img align="center" src="icons/linkedin.svg" alt="Carlos Sánchez LinkedIn" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
