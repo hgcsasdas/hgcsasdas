@@ -1,41 +1,21 @@
-# Hi, I'm Carlos Sánchez 👋
+# Carlos Sánchez
 
-I am a **Software & Infrastructure Engineer** focused on Backend Development, Cloud Infrastructure, and Systems. I bridge the gap between robust application architecture and scalable deployment. 
+Full-stack developer (Java / Spring Boot, React / TypeScript) with almost three years
+of professional experience. Part-time Computer Engineering student at UNED, Spain.
 
-Currently building and maintaining high-performance software while expanding my expertise in Cloud Native ecosystems.
+I enjoy the parts of software close to the system: storage, deployment, Linux and Docker.
 
----
+## Selected work
 
-### 🚀 Featured Open Source Project
+**[FFHS](https://github.com/hgcsasdas/FFHS)**: self-hosted file storage with a bucket-based REST API.
+Spring Boot · PostgreSQL · React + TypeScript · Nginx · Docker Compose. JWT and API-key auth.
 
-#### [FFHS (Fast File Hosting Service)](https://github.com/hgcsasdas/FFHS)
-A lightweight, portable, and self-hosted alternative to AWS S3 storage. 
-* **Key Focus:** High-performance file storage, efficient I/O, and zero-dependency portability.
-* **Tech Stack:** Java / Backend Systems, Docker & Compose.
+## Stack
 
----
+- **Backend:** Java, Spring Boot, JPA/Hibernate, PostgreSQL, MySQL
+- **Frontend:** React, TypeScript, Next.js
+- **Infra:** Docker, Docker Compose, Nginx, Linux (self-managed VPS)
 
-### 🛠️ Technical Toolkit
+## Contact
 
-* **Backend & Systems:** Java, Spring Boot, Kotlin, SQL (PostgreSQL/MySQL), Bash
-* **DevOps & Infrastructure:** Docker, Docker Compose, Linux Administration, Git
-* **Frontend (Supporting):** Angular, React, Tailwind CSS
-* **Currently Learning & Certifying:** AWS Architecture, Kubernetes, Terraform
-
----
-
-### 💼 Experience & Background
-
-* **Current Role (1+ Year):** Backend & Systems integration, focused on reliable architecture.
-* **Previous Experience (1 Year 4 Months):** Full-stack development and real-world system maintenance.
-* **Academic Background:** Dual degree in Multiplatform Application Development (DAM) and Web Application Development (DAW).
-
-I have multiple production-ready applications published and a strong focus on automation, storage architecture, and backend efficiency.
-
----
-
-### 🌐 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/carlossn](https://www.linkedin.com/in/carlossn/)
-* **Portfolio:** [hgccarlos.es](https://hgccarlos.es)
-* **Email:** [carl.san.nu@gmail.com](mailto:carl.san.nu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/carlossn/) · [hgccarlos.es](https://hgccarlos.es) · carl.san.nu@gmail.com
